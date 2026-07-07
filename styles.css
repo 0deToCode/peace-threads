@@ -1,7 +1,6 @@
-<style>
-.responsive-img{
-  max-width: 50%;
-  height: 50%;
+.img{
+  max-width: 100px;
+  height: auto;
   display: block;
+  margin: 50px
 }
-</style>
