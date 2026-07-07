@@ -2,7 +2,8 @@
   max-width: 100px;
   height: auto;
   display: block;
-  margin: 50px
+  margin: 50px;
+  border-radius: 120px;
 }
 .img-box img{
 
