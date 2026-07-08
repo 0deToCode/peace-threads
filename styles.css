@@ -1,17 +1,9 @@
-.img{
-  max-width: 100px;
-  height: auto;
-  display: block;
-  margin: 50px;
-  border-radius: 120px;
-}
-.img-box img{
 
-  max-width: 300px;
-  max-height: 200px;
+.img-box img{
   width: 100px;
   height: 100px;
   display: block;
+  margin: 50px;
   border: 940px: solid red;
   
 }
