@@ -9,8 +9,9 @@
 
   max-width: 300px;
   max-height: 200px;
-  width: auto;
-  height: auto;
+  width: 100px;
+  height: 100px;
   display: block;
+  border: 940px: solid red;
   
 }
