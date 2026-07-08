@@ -1,3 +1,5 @@
+body { outline: 5px solid red; } /* to test if its losding stylehseets */
+
 
 .img-box img{
   width: 100px;
