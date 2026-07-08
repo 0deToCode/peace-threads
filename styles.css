@@ -17,6 +17,7 @@ body { outline: 5px solid red; } /* to test if its losding stylehseets */
   display: flex;
   justify-content: flex-end; /* push items to the right */
   gap: 16px; /* spacing between items (optional) */
+  background: yellow;
 }
 
 .nav-list a {
