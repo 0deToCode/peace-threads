@@ -10,6 +10,15 @@ body { outline: 5px solid red; } /* to test if its losding stylehseets */
   
 }
 
+.img-box1 {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 100px;
+  border: 101px: solid green;
+
+}
+
 .nav-list {
   list-style: none;
   margin: 0;
