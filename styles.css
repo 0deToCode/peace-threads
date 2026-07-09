@@ -15,7 +15,7 @@ body { outline: 5px solid red; } /* to test if its losding stylehseets */
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: flex-end; /* push items to the right */
+  justify-content: flex-center; /* push items to the right */
   gap: 16px; /* spacing between items (optional) */
   background: yellow;
 }
