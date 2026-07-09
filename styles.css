@@ -14,7 +14,7 @@ body { outline: 5px solid red; } /* to test if its losding stylehseets */
   width: 100px;
   height: 100px;
   display: block;
-  margin: 100px;
+  margin: 50px;
   border: 101px: solid green;
 
 }
