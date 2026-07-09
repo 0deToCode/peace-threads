@@ -6,7 +6,7 @@ body { outline: 5px solid red; } /* to test if its losding stylehseets */
   height: 100px;
   display: block;
   margin: 50px;
-  border: 940px solid red;
+  border: 5px solid red;
   
 }
 
