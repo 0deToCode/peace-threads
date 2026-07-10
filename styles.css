@@ -3,7 +3,6 @@
 .img-box,
 .img-boxe {
   display: inline-block;
-  background-color: red;
 }
 
 
@@ -21,7 +20,7 @@
   height: 100px;
   display: inline-block;
   margin: 50px;
-  border: 5px solid green;
+  border: 5px solid purple;
 
 }
 
