@@ -3,6 +3,7 @@
 .img-box,
 .img-boxe {
   display: inline-block;
+  background-color: red;
 }
 
 
