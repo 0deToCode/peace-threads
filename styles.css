@@ -38,7 +38,7 @@ body {
   display: flex;
   justify-content: flex-center; /* push items to the right */
   gap: 16px; /* spacing between items (optional) */
-  background: yellow;
+  background: silver;
 }
 
 .nav-list a {
