@@ -8,7 +8,7 @@ body {
 
 .img-box,
 .img-boxe {
-  flex: 0 0 auto;
+  display: inline-block;
 }
 
 
