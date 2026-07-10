@@ -1,5 +1,10 @@
 /* body { outline: 5px solid red; } */ /* to test if its losding stylehseets */
 
+.img-box,
+.img-boxe {
+  display: inline-block;
+}
+
 
 .img-box img{
   width: 100px;
