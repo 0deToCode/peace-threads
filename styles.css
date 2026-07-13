@@ -22,8 +22,8 @@ body {
 
 
 .img-box img{
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   display: inline-block;
   margin: 50px;
   /*border: 5px solid red;*/
@@ -31,8 +31,8 @@ body {
 }
 
 .img-boxe img{
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   display: inline-block;
   margin: 50px;
   border: 5px solid green;
