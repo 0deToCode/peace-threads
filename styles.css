@@ -17,7 +17,28 @@ body {
   gap: 20px;
 }
 
-
+#wrapper {
+    background: #ccc;
+    margin: 0 auto; /* to make the div center align to the browser */
+    padding: 20px;
+    width: 500px; /* set it to anything */
+    text-align: center;
+}
+#wrapper ul {
+    background: #aaa;
+    padding: 10px;
+    display: inline-block;
+}
+#wrapper ul li {
+    color: #fff;
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+#wrapper ul li:last-child {
+    color: #fff;
+    display: inline-block;
+    margin: 0;
+}
 
 .img-box img{
   width: 200px;
