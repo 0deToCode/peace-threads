@@ -1,8 +1,6 @@
 /* body { outline: 5px solid red; } */ /* to test if its losding stylehseets */
 
 body {
-  display: flex;
-  flex-wrap: wrap;
   gap: 20px;
 }
 
