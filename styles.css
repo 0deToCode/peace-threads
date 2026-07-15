@@ -17,6 +17,13 @@ body {
   gap: 20px;
 }
 
+.img-container {
+  background-color: dark-green;
+  color: white;
+  cursor: pointer;
+}
+  
+
 #wrapper {
     background: #ccc;
     margin: 0 auto; /* to make the div center align to the browser */
