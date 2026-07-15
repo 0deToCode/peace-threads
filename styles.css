@@ -17,7 +17,7 @@ body {
   gap: 20px;
 }
 
-.img-container {
+.img-container:hover {
   background-color: dark-green;
   color: white;
   cursor: pointer;
